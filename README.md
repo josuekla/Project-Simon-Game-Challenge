@@ -4,6 +4,9 @@
 
 Jogo para testar a memória, onde o usuário precisa repetir a sequência de cores e sons apresentada. A cada rodada, a dificuldade aumenta com a adição de um novo passo na sequência.
 
+### Preview
+![preview image of the game](preview.png) 
+
 ## Tecnologias usadas
 - **HTML**
 - **CSS**
@@ -36,26 +39,29 @@ ___
 
 Game to test memory, where the user needs to repeat the sequence of colors and sounds presented. With each round, the difficulty increases with the addition of a new step in the sequence.
 
+### Preview
+![preview image of the game](preview.png) 
+
 ## Technologies used
 - **HTML**
 - **CSS**
 - **JavaScript**
 
-##Learnings
+## Learnings
 This project helped me to:
 - Better understand the use of **async** and **setTimeout**
 - Practice adding events to buttons
 - Improve my **programming logic**
 
-##How to play
+## How to play
 1. Press the **A** key to start.
 2. The game will display a sequence of colors with children.
 3. Click on the colors in the same order they were shown.
 4. With each correct answer, the sequence becomes longer.
 5. If you make a mistake, you must press any key for the game to restart.
 
-##Objective
+## Objective
 Try to get the longest sequence possible without making a mistake!
 
-##Link to play
+## Link to play
 👉 [Click here to play](https://josuekla.github.io/Project-Simon-Game-Challenge/)
